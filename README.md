@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I assist [Bhante Sujato](https://en.wikipedia.org/wiki/Bhante_Sujato) and a community of Pāli scholars with the publication of computer assisted translations of the Early Buddhist Texts to [SuttaCentral](https://suttacentral.net/).
+
+Here's a bit more [about me](https://www.linkedin.com/in/carmi-cronje-68a590104/).
+
 <!--
 **ccronje/ccronje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
